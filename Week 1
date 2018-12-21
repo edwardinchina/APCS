@@ -5,3 +5,15 @@ Learn arithmatic operators and assignment operators.
 Vocab
 reserved type
 string literal
+
+
+! - bang
+( - open parenthesis
+) - closed parenthesis
+{} - curly braces
+[] - square braces
+; - semicolon
+/ - forward slash; division
+\ - backslash; escape character
+\n - newline
+
