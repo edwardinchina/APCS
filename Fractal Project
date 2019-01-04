@@ -1,0 +1,17 @@
+Fractal Project
+
+Objective: To understand methods and method call and how to use them for recursion.
+
+Steps
+1. Use recursion to produce a fractal using Java or JavaScript.
+2. Present your work.
+Grade: 25% Code works. 25% originality (small changes are ok) 50% understanding
+
+****How To Get Started*****
+Go through the tutorial quickly to gain some coding skills.
+http://www.crunchzilla.com/code-maven
+
+Look at the recursion section.
+You may use the tree or fern as a starting point or research other fractals. 
+Wikipedia is a good place to find popular fractals.
+Your fractal should be implimented in javaScript using the canvas.
