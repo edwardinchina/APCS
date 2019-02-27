@@ -31,6 +31,7 @@ class Student{
 
 	//setters Input
     public void setFirstName(String firstName) {
+    	this.firstName = firstName;
     	return; //input doesn't need a return
     }
 
