@@ -1,0 +1,18 @@
+Vocab
+fields: variables that belong to an object example 
+methods: ecapsulated code that can access an objects fields or do related tasks
+constructor: a special method for creating an object and populating its feilds.
+method call: a statement that runs a method. example: s1.f()
+field reference: a statement that uses or sets the value of a field. example: s1.name
+
+Keywords
+
+new: used to call a constructor
+return: used to end a method
+this: used to reference an object from the inside
+public: allows somethig to be accessed from the outside.
+int: a 4 Byte integer ex. int age = 10;
+char: a 2 Byte Unicode Character ex. char gender = "M";
+String: a groupd of chars. ex. String name = "John";
+
+
