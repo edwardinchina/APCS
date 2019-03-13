@@ -1,0 +1,10 @@
+Assignment due Monday 3/18.
+
+1: Use https://www.tutorialspoint.com/java/lang/system_arraycopy.htm
+
+2: Use a for loop to copy arrays. (Shallow Copy)
+
+3. Use a for loop to copy an array of students but if you change a student in one lists it won't effect the students of the other list. (Deep Copy)
+
+For exercize three read: https://javaconceptoftheday.com/difference-between-shallow-copy-vs-deep-copy-in-java/
+
