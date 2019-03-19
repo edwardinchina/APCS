@@ -1,0 +1,6 @@
+
+Tutorial: https://www.javatpoint.com/inheritance-in-java
+Paste your code into eclipse. Create new objects and place Employee and Programmer into separate files.
+
+"is a" relationship: https://www.w3resource.com/java-tutorial/inheritance-composition-relationship.php
+
