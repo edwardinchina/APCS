@@ -1,0 +1,23 @@
+Create Three Class files.
+
+
+Unit: Superclass Class
+  can attack
+  can take damage
+  can print info
+
+Soldier: Child Class inherits from Unit.
+  Just like Unit but has armor.
+  Amor reduces damage taken in an attack.
+  
+Test:
+  Has a main method that tests the attacks.
+  Print stats
+  unit vs unit
+  unit vs soldier
+  soldier vs soldier
+  unit vs soldier
+  
+  Print health after each attack.
+  
+
